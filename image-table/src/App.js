@@ -52,7 +52,7 @@ const App=()=>{
         <ImageTable selectedImages={selectedImages}/>
       </div>
       <div className='watermark'>
-        K.SNEHA
+       <NAME>
       </div>
     </div>
   );
