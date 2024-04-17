@@ -56,7 +56,7 @@ function App() {
         <Clock />
         <DigitalClock />
       </div>
-      <div className="watermark">SNEHA</div>
+      <div className="watermark"><NAME></div>
     </div>
   );
 }
