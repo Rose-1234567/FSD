@@ -139,7 +139,7 @@ function App() {
         </div>
       )}
       <div className="watermark">
-        <p>K.SNEHA'S</p>
+        <p><NAME>'S</p>
       </div>    
     </div>
   );
