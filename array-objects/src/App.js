@@ -4,11 +4,11 @@ import './index.css';
 
 const App = () => {
   const data = [
-    {ID : 1 , Name : 'SNEHA' ,   Age : 21},
-    {ID : 2 , Name : 'URDHVA'   ,   Age : 21},
-    {ID : 3 , Name : 'SRAVANTHI' ,   Age : 21},
-    {ID : 4 , Name : 'ABHILASHA' ,   Age : 21},
-    {ID : 5 , Name : 'MADHUMITHA'  ,   Age : 21},
+    {ID : 1 , Name : '<NAME>' ,   Age : 21},
+    {ID : 2 , Name : '<NAME>'   ,   Age : 21},
+    {ID : 3 , Name : '<NAME>' ,   Age : 21},
+    {ID : 4 , Name : '<NAME>' ,   Age : 21},
+    {ID : 5 , Name : '<NAME>'  ,   Age : 21},
 
   ];
 
