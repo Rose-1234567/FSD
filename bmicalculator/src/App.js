@@ -108,7 +108,7 @@ function App() {
         </div>
       </div>
       <div className="watermark">
-        <p>SNEHA's</p>
+        <p><NAME>'s</p>
       </div>
     </div>
   );
